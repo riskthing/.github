@@ -1,0 +1,17 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <!-- 3x3 grid forming abstract "R" shape -->
+    <!-- Top row -->
+    <rect x="10" y="10" width="30" height="30" fill="#94C880" rx="4"/> <!-- Low -->
+    <rect x="45" y="10" width="30" height="30" fill="#E57373" rx="4"/> <!-- High -->
+    <rect x="80" y="10" width="30" height="30" fill="#E57373" rx="4"/> <!-- High -->
+
+    <!-- Middle row -->
+    <rect x="10" y="45" width="30" height="30" fill="#94C880" rx="4"/> <!-- Low -->
+    <rect x="45" y="45" width="30" height="30" fill="#FADE66" rx="4"/> <!-- Medium -->
+    <rect x="80" y="45" width="30" height="30" fill="#E57373" rx="4"/> <!-- High -->
+
+    <!-- Bottom row -->
+    <rect x="10" y="80" width="30" height="30" fill="#94C880" rx="4"/> <!-- Low -->
+    <rect x="45" y="80" width="30" height="30" fill="#94C880" rx="4"/> <!-- Low -->
+    <rect x="80" y="80" width="30" height="30" fill="#FADE66" rx="4"/> <!-- Medium -->
+</svg>
