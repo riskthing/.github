@@ -28,6 +28,8 @@ The card follows GitHub's repository social-card template: 1280×640, with every
 
 Copy follows the live riskthing.com landing page and `docs/brand/messaging-guide.md` (private repo): the category line is "Risk intelligence for decisions you can't take back". Change the landing page first, then these.
 
+The org description deliberately differs from `profile/README.md`: the header says "risk management" (the term people search for), the profile leads with the "risk intelligence" category line. An informal A/B; keep both until one clearly reads better.
+
 ## Where each setting lives
 
 GitHub has no API for uploading these images, so set them in the web UI.
@@ -36,7 +38,7 @@ GitHub has no API for uploading these images, so set them in the web UI.
 |---|---|---|
 | Profile picture | `riskthing-avatar.png` | [Organization profile](https://github.com/organizations/riskthing/settings/profile) |
 | Display name | RiskThing | Organization profile |
-| Public email | support@riskthing.com | Organization profile |
-| Description | Risk intelligence for decisions you can't take back. A live risk register on a NASA-style 5×5, built by a former NASA Flight Director. | Organization profile |
+| Public email | hello@riskthing.com | Organization profile |
+| Description | Risk management for teams building hard things. Agent skill and tools for writing, scoring and tracking risks and mitigations. | Organization profile |
 | Social preview | `riskthing-card.png` | [riskthing-skill settings](https://github.com/riskthing/riskthing-skill/settings) → Social preview |
 | Org landing page | `profile/README.md` in this repo | Rendered on https://github.com/riskthing |
